@@ -1,0 +1,2 @@
+import './uploadAvatar';
+import './changePassword';

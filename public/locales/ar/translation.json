@@ -1,0 +1,144 @@
+{
+  "app": {
+    "viewAll": "عرض الكل",
+    "back": "رجــوع",
+    "saveChanges": "حفظ التغييرات",
+    "cancel": "Cancel",
+    "confirm": "تأكيد",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "search": "بـحـث ...",
+    "addNew": "إضـافة جـديد",
+    "unassign": "إلغــاء تعييــن",
+    "none": "لا يوجد",
+    "user": "مستخدم"
+  },
+  "navitems": {
+    "dashboard": "لوحة التحكم",
+    "app": "التطبيق",
+    "manageAdmins": "إدارة المديرين",
+    "list": "قائمة المديرين",
+    "admins": "المديرين",
+    "roles": "الصلاحيات",
+    "reservations": "الحجوزات",
+    "flights": "الطيران",
+    "hotels": "الفنادق",
+    "settings": "الإعدادات",
+    "offices": "المكاتب",
+    "departments": "الأقسام",
+    "reservedCountries": "الدول العاملة",
+    "accountSettings": "إعدادات الحســاب"
+  },
+  "notification": {
+    "beforeThat": "قبل ذلك",
+    "new": "جديد",
+    "notifications": "اشـعـارات",
+    "unreadMsgs": "رسائـل غير مقـرؤة",
+    "have": "لـديك"
+  },
+  "account": {
+    "account": "الحـسـاب",
+    "myAccount": "حسـابى"
+  },
+  "auth": {
+    "forgetPassword": "نسيت كلمة المرور ؟",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج"
+  },
+  "form": {
+    "emailAddress": "البريد الالكترونى",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "oldPassword": "كلمة المرور الحالية",
+    "newPassword": "كلمة المرور الجديدة ",
+    "confirmNewPassword": "تأكيد كلمة المرور"
+  },
+  "formValidation": {
+    "emailRequired": "البريد الالكترونى مطلوب",
+    "passwordRequired": "كلمة المرور مطلوبة",
+    "emailValid": "يجب ان يكون البريد الالكترونى صحيح",
+    "newPasswordRequired": "كلمة المرور الجديدة مطلوبة",
+    "oldPassRequired": "كلمة المرور الحالية مطلوبة",
+    "leastCharpass": "كلمة المرور لا تقل عن 6 أحرف",
+    "passMustMatch": "كلمات المرور يجب ان تتطابق"
+  },
+  "messages": {
+    "passwordChanged": "كلمة المرور تغيرت بنجاح !"
+  },
+  "userProfile": {
+    "activityLog": "سجل الانشطة ",
+    "changePassword": "تغيير كلمة المررور",
+    "notifications": "الاشعارات",
+    "activity": "الانشطة",
+    "roles": "الصلاحيلات",
+    "general": "عام"
+  },
+  "admins": {
+    "selectedUsersDeletedSuccessfully": "تم حذف المستخدمين المختارين بنجاح !",
+    "userDeletedSuccessfully": "تم حذف المستخدم بنجاح",
+    "adminDeletedSuccess": "تم حذف المستخدم بنجاح",
+    "adminsList": "قائمة المديرين",
+    "importantNotice": "تنبيه هام",
+    "confirmDeletionMsg": "  ؟ هل انت متأكد . هل تريد تعطيل هذة الصلاحيات ؟",
+    "confirmActivationMsg": " هل انت متأكد . هل تريد حذف هذه الصلاحيات ؟",
+    "tablesHead": {
+      "name": "الاسم",
+      "office": "المكتب",
+      "department": "القسم",
+      "email": "البريد الالكترونى"
+    }
+  },
+  "roles": {
+    "roleUpdatedSuccess": "تم تعديل الصلاحيات بنجاح ",
+    "roleDeletedSuccess": "تم حذف الصلاحيات بنجاح",
+    "rolesList": "قائمة الصلاحيات",
+    "importantNotice": "تنبيه هام",
+    "confirmDeletionMsg": "  ؟ هل انت متأكد . هل تريد تعطيل هذة الصلاحيات ؟",
+    "confirmActivationMsg": " هل انت متأكد . هل تريد حذف هذه الصلاحيات ؟",
+    "tablesHead": {
+      "users": "المديرين",
+      "name": "الاسـم ",
+      "status": "الحالة"
+    }
+  },
+  "offices": {
+    "officeUpdatedSuccess": "تم تعديل المكتب بنجاح",
+    "officeDeletedSuccess": "تم حذف المكاتب بنجاح",
+    "officesList": "قائمة المكاتب",
+    "importantNotice": "تنبيه هام",
+    "confirmDeletionMsg": "  ؟ هل انت متأكد . هل تريد تعطيل هذة الصلاحيات ؟",
+    "confirmActivationMsg": " هل انت متأكد . هل تريد حذف هذه الصلاحيات ؟",
+    "tablesHead": {
+      "name": "الاسم",
+      "address": "العنوان"
+    },
+    "addNewOffice": "إضافة مكتب جديد",
+    "updateOffice": "تعديل",
+    "officeIsRequired": "اسم المكتب مطلوب",
+    "officeAddressIsRequired": "عنوان المكتب مطلوب",
+    "officeAddedSuccessfully": "تم اضافة المكتب بنجاح'",
+    "officeName": "اسم المكتب",
+    "address": "العنوان"
+  },
+  "departments": {
+    "departmentUpdatedSuccess": "تم تحديث القسم بنجاح",
+    "departmentDeletedSuccess": "تم حذف القسم بنجاح",
+    "departmentsList": "قائمة الاقسام",
+    "importantNotice": "تنبيه هام",
+    "confirmDeletionMsg": "  ؟ هل انت متأكد . هل تريد تعطيل هذة الصلاحيات ؟",
+    "confirmActivationMsg": " هل انت متأكد . هل تريد حذف هذه الصلاحيات ؟",
+    "tablesHead": {
+      "name": "الاسم",
+      "description": "الوصف",
+      "office": "المكتب"
+    },
+    "addNewDepartment": "إضافة قسم جديد",
+    "updateDepartment": "تعديل ",
+    "departmentIsRequired": "اسم القسم مطلوب",
+    "departmentDescriptionIsRequired": "وصف القسم مطلوب",
+    "departmentAddedSuccessfully": "القسم اضيف بنجاح'",
+    "departmentName": "اسم القسم",
+    "departmentDescription": "الوصف",
+    "office": "المكتب"
+  }
+}

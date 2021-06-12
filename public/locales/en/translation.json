@@ -1,0 +1,166 @@
+{
+  "app": {
+    "viewAll": "View All",
+    "back": "Back",
+    "saveChanges": "Save Changes",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search ...",
+    "addNew": "Add New ",
+    "unassign": "unassign",
+    "none": "none",
+    "user": "User"
+  },
+  "errors": {
+    "pageNotFoundError": "Sorry, page not found!",
+    "pageNotFoundErrorMessage": "Sorry, we couldn’t find the page you’re looking for. Perhaps \n you’ve mistyped the URL? Be sure to check your spelling.",
+    "pageServerError": "500 Internal Server Error",
+    "pageServerErrorMessage": "There was an error, please try again later."
+  },
+  "navitems": {
+    "dashboard": "Dashboard",
+    "app": "App",
+    "manageAdmins": "Manage Admins",
+    "list": "List",
+    "admins": "Admins",
+    "roles": "Roles",
+    "reservations": "Reservations",
+    "flights": "Flights",
+    "hotels": "Hotels",
+    "settings": "Settings",
+    "offices": "offices",
+    "departments": "Departments",
+    "reservedCountries": "Reserved Countries",
+    "accountSettings": "Account Settings"
+  },
+  "notification": {
+    "beforeThat": "Before That",
+    "new": "New",
+    "notifications": "Notifications",
+    "unreadMsgs": "unread messages",
+    "have": "You have"
+  },
+  "account": {
+    "account": "Account",
+    "myAccount": "My Account"
+  },
+  "auth": {
+    "forgetPassword": "Forgot password ?",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "form": {
+    "emailAddress": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "oldPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password"
+  },
+  "formValidation": {
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "newPasswordRequired": "New Password is required",
+    "emailValid": "Email must be a valid email address",
+    "oldPassRequired": "Old Password is required",
+    "leastCharpass": "Password must be at least 6 characters",
+    "passMustMatch": "Passwords must match"
+  },
+  "messages": {
+    "passwordChanged": "Password Changed successfully!"
+  },
+  "userProfile": {
+    "activityLog": "Activity Log",
+    "changePassword": "change Password",
+    "notifications": "Notifications",
+    "activity": "Activity",
+    "roles": "Roles",
+    "general": "General"
+  },
+  "admins": {
+    "selectedUsersDeletedSuccessfully": "Selected Users Deleted Successfully!",
+    "userDeletedSuccessfully": "Selected User Deleted Successfully!",
+    "adminDeletedSuccess": "User Deleted Successfully",
+    "adminsList": "Admins List",
+    "importantNotice": "Important Notice",
+    "confirmDeletionMsg": "Are You Sure, You want to Delete This item ?",
+    "confirmActivationMsg": "Are You Sure, You want to Take This action ?",
+    "tablesHead": {
+      "name": "Admin Name",
+      "office": "Office",
+      "department": "Department",
+      "email": "Email"
+    }
+  },
+  "roles": {
+    "roleUpdatedSuccess": "Role updated Successfully",
+    "roleDeletedSuccess": "Role Deleted Successfully",
+    "rolesList": "Roles List",
+    "importantNotice": "Important Notice",
+    "confirmDeletionMsg": "Are You Sure, You want to Delete This item ?",
+    "confirmActivationMsg": "Are You Sure, You want to Take This action ?",
+    "tablesHead": {
+      "users": "Users",
+      "name": "Name",
+      "status": "Status"
+    }
+  },
+  "offices": {
+    "officeUpdatedSuccess": "Office updated Successfully",
+    "officeDeletedSuccess": "Office Deleted Successfully",
+    "officesList": "Offices List",
+    "importantNotice": "Important Notice",
+    "confirmDeletionMsg": "Are You Sure, You want to Delete This item ?",
+    "confirmActivationMsg": "Are You Sure, You want to Take This action ?",
+    "tablesHead": {
+      "name": "Name",
+      "address": "Address"
+    },
+    "addNewOffice": "Add New Office",
+    "updateOffice": "Update",
+    "officeIsRequired": "office Name is Required",
+    "officeAddressIsRequired": "office Address is Required",
+    "officeAddedSuccessfully": "Role added successfully'",
+    "officeName": "Office Name",
+    "address": "Address"
+  },
+  "departments": {
+    "departmentUpdatedSuccess": "Department updated Successfully",
+    "departmentDeletedSuccess": "Department Deleted Successfully",
+    "departmentsList": "Departments List",
+    "importantNotice": "Important Notice",
+    "confirmDeletionMsg": "Are You Sure, You want to Delete This item ?",
+    "confirmActivationMsg": "Are You Sure, You want to Take This action ?",
+    "tablesHead": {
+      "name": "Name",
+      "description": "Description",
+      "office": "Office"
+    },
+    "addNewDepartment": "Add New Department",
+    "updateDepartment": "Update",
+    "departmentIsRequired": "Department Name is Required",
+    "departmentDescriptionIsRequired": "department description is Required",
+    "departmentAddedSuccessfully": "Department added successfully'",
+    "departmentName": "Description Name",
+    "departmentDescription": "Description",
+    "office": "Office"
+  },
+  "servedCountries": {
+    "servedCountriesList": "Served Countries List",
+    "servedCountriesAddedSuccessfully": "Served Country added Successfully",
+    "servedCountriesUpdatedSuccess": "Served Country updated Successfully",
+    "servedCountriesDeletedSuccess": "Served Country Deleted Successfully",
+    "importantNotice": "Important Notice",
+    "confirmDeletionMsg": "Are You Sure, You want to Delete This item ?",
+    "confirmActivationMsg": "Are You Sure, You want to Take This action ?",
+    "tablesHead": {
+      "name": "Name",
+      "description": "Description",
+      "countries": "Countries",
+      "currency": "Currency",
+      "language": "Language"
+    }
+  }
+}
